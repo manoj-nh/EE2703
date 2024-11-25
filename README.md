@@ -1,1 +1,1 @@
-# EE2703
+# EE2703 - Applied Programming Lab
